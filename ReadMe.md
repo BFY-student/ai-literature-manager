@@ -34,6 +34,7 @@
 git clone https://github.com/BFY-student/ai-literature-manager.git
 cd ai-literature-manager
 npm install
+npm install pdfjs-dist
 ```
 
 ### 2. 启动项目
