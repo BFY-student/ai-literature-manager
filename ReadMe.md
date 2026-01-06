@@ -30,8 +30,11 @@
 ### 1. 安装依赖
 
 打开终端，进入项目目录并运行：
-bash npm install
-
+```bash
+git clone https://github.com/BFY-student/ai-literature-manager.git
+cd ai-literature-manager
+npm install
+```
 
 ### 2. 启动项目
 
@@ -39,7 +42,8 @@ bash npm install
 npm run dev
 ```
 
-启动后，终端会显示本地访问地址（通常是 http://localhost:5173）。在浏览器中打开该地址即可。
+启动后，终端会显示本地访问地址。(通常是: http://localhost:5173
+)在浏览器中打开该地址即可。
 
 ### 3. 使用方法
 （1）配置 API：
